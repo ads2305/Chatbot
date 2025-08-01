@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 # Groq client setup
-groq_client = Groq(api_key="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")
+groq_client = Groq(api_key="#")
 @app.post("/chat")
 async def chat_endpoint(request: Request):
     data = await request.json()

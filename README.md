@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# PROJECT NAME:PODA AI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TEAM NAME:ORBIT
 
-## Available Scripts
+## TEAM MEMBERS
 
-In the project directory, you can run:
+Team Lead:Adwitha Nair-TKM COLLEGE OF ENGINEERING\
+Member 2:Neeta A Suresh-TKM COLLEGE OF ENINEERING
 
-### `npm start`
+## PROJECT DESCRIPTION
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project presents an interactive chatbot interface inspired by traditional Kerala culture, featuring a humorous “Malayali uncle” persona. It aims to engage users through witty Malayalam dialogues and culturally relatable animated visuals, creating an entertaining and regionally grounded digital experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## THE PROBLEM
 
-### `npm test`
+Most chatbot interfaces today lack cultural personality and emotional relatability. Our project solves this by designing a regionally inspired Malayalam-style AI bot that brings humor, familiarity, and local flavor to digital conversations—turning a typically bland user experience into something entertaining and engaging.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## THE SOLUTION
 
-### `npm run build`
+We developed a culturally themed AI chatbot interface that mimics the tone, expressions, and personality of a typical humorous Malayalam-speaking “uncle” character. By combining regional language flair, animated visuals, and a responsive design, the solution offers users a fun, emotionally engaging, and relatable interaction experience—making digital communication more lively and locally resonant.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## TECHNICAL DETAILS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### TECHNOLOGIES/COMPONENTS USED
+### FOR SOFTWARE
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## IMPLEMENTATION
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
+## INSTALLATION
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## RUN
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## SCREENSHOTS
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## DIAGRAMS
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## SCHEMATIC AND CIRCUIT
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## BUILD PHOTOS
+
+## VIDEO
+
+## ADDITIONAL DEMOS
+
+## TEAM CONTRIBUTIONS
